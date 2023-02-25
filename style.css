@@ -1,0 +1,82 @@
+#cuerpo{
+    margin-left: 15px;
+    margin-bottom: 15px;
+    background-color: floralwhite;
+}
+
+#img_perfil {
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    float:left;
+    background-color: rgb(242, 116, 188);
+}
+
+#nombre {
+    width: 60%;
+    float: right;
+    padding-bottom: 100px;
+    margin-top: 20px;
+}
+#mi_nombre {
+    font-family: 'Henny Penny', cursive;
+    font-size: 80px;
+    color: rgb(242, 116, 188);
+    border-style: double 100px;
+    border-color: rgb(0, 0, 0);
+    width: 50%;
+    float:right;
+    margin: 1px;
+    text-align:center;
+    padding-right: 250px;
+}
+
+.habilidades {
+    border-color:rgb(242, 116, 188);
+    border-width: 5px;
+    border-style: double;
+    width: 28%;
+    float: left;
+    padding-left: 5px;
+    padding: 20px;
+}
+
+.PopUp {
+    background-color:rgb(242, 116, 188);
+    width: 30%;
+    text-decoration-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 35%;
+    top: 70%;
+    display: none;
+
+}
+
+#cerrar {
+    position: absolute;
+    right: 3px;
+    top: 3px;
+}
+.estudios {
+    border-width: 5px;
+    width: 65%;
+    float: right;
+    padding-left: 5px;
+    margin-bottom: 90px;
+}
+
+#h2{
+    width: 90%;
+    float:right;
+    margin-top: 1px;
+}
